@@ -1,11 +1,11 @@
-The Complete SQL Bootcamp
+# The Complete SQL Bootcamp
 
 What will you learn?
 - Use SQL to query a database
 - Be comfortable putting SQL and PostgreSQL on their resume
 - Use SQL to perform data analysis
 
-# Curriculum for this programme
+## Curriculum for this programme
 1. Database and Tables: Creating and Restoring a Database.
 2. SQL statement fundamentals:
   - SELECT statement
