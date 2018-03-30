@@ -8,23 +8,23 @@ What will you learn?
 ## Curriculum for this programme
 1. Database and Tables: Creating and Restoring a Database.
 2. SQL statement fundamentals:
-  - SELECT statement
-  - SELECT WHERE
-  - COUNT, LIMIT, ORDER BY, BETWEEN, IN, LIKE
+    - SELECT statement
+    - SELECT WHERE
+    - COUNT, LIMIT, ORDER BY, BETWEEN, IN, LIKE
  3. GROUP BY statements: 
-  - MIN, MAX, SUM and AVG
-  - GROUP BY
-  - HAVING
+    - MIN, MAX, SUM and AVG
+    - GROUP BY
+    - HAVING
  4. JOINS:
-  - AS statement: inner join, outer join
-  - Union
+    - AS statement: inner join, outer join
+    - Union
  5. Advanced SQL commands:
-  - Timestamps and Extract
-  - Mathematical Functions
-  - String function and Operators
-  - SubQuery and Self-join
+    - Timestamps and Extract
+    - Mathematical Functions
+    - String function and Operators
+    - SubQuery and Self-join
  6. Creating Databases and Tables:
-  - Primary Keys and Foreign Keys
-  - Insert, Update, Delete, Alter Table, Drop Table
-  - CHECK Constraint, NOT NULL Constraint, UNIQUE Constraint
-  
+    - Primary Keys and Foreign Keys
+    - Insert, Update, Delete, Alter Table, Drop Table
+    - CHECK Constraint, NOT NULL Constraint, UNIQUE Constraint
+
